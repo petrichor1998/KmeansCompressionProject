@@ -1,6 +1,6 @@
 # kmeans-clustering-for-image-compression
 
-## Full description on my [website](https://petrichor1998.github.io/Projects)
+## Full description on my [website](https://petrichor1998.github.io/Projects/)
 
 Code submitted by : Parth Padalkar, PXP180054
 
